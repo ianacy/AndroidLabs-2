@@ -47,7 +47,7 @@ public class ToolBarActivity extends AppCompatActivity
                 break;
             case R.id.secondIcon:
                 Intent secondIntent
-                        = new Intent(getApplicationContext(), SecondActivity.class);
+                        = new Intent(getApplicationContext(), DadJoke.class);
                 startActivity(secondIntent);
                 break;
             case R.id.exit:
