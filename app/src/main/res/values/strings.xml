@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CST2335Lab8</string>
+    <string name="first">first</string>
+    <string name="second">Second</string>
+    <string name="secondText">What do you call a hot dog on wheels? Fast food!</string>
+    <string name="exit">exit</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
